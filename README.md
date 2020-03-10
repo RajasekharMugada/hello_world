@@ -1,2 +1,2 @@
 # hello_world
-Hello world program in python
+Basics of python, numpy , pandas and matplotlib explanined
